@@ -18,3 +18,5 @@
 
 <p>Для их установки заходим в <b>System -> Software</b>, нажимаем кнопку Upload Package и сперва загружаем mt7601u-firmware_20230804-1_aarch64_generic. После успешной загрузки загружаем kmod-mt7601u_5.15.162+6.1.97-1-1_aarch64_generic</p>
 <p>После этого в списке беспроводных сетей появится новое устройство Generic MAC80211 802.11b/g/n</p>
+
+<img src="https://github.com/san4jkee/openwrt_opi_zero2w/blob/main/123.png">
